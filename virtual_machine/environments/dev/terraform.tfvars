@@ -3,6 +3,10 @@ rgs-vinav = {
     "name"     = "rg-vinav14"
     "location" = "West Europe"
   }
+   rg1 = {
+    "name"     = "rg-vinav15"
+    "location" = "West Europe"
+  }
 
 }
 
